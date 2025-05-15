@@ -17,17 +17,21 @@ This project is a standalone application developed as part of a university assig
 ## Preview
 
 ### 1. Game UI
-![Menu Game Preview](./media/image3.png)
+![Menu Game Preview](./media/home.png)
 
 ### 2. Key Features
-#### Level 1
-![Level 1 Preview](./media/image4.png)
+#### Game levels
+![Level 1 Preview](./media/game.png)
+![Level 2 Preview](./media/game2.png)
+
+#### Game Paused
+![Game Paused Preview](./media/pause.png)
 
 #### Game Over
-![Game Over Preview](./media/image10.png)
+![Game Over Preview](./media/lose.png)
 
 #### You Win
-![You Win Preview](./media/image12.png)
+![You Win Preview](./media/winning.png)
 
 ---
 
