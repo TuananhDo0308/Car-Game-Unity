@@ -10,7 +10,6 @@ This is a 2D racing game developed using **Unity** and **C#**, offering an engag
 
 This project is a standalone application developed as part of a university assignment. No additional repositories are directly related, but the source code and assets can be found in the project's repository:
 
-- **Source Code:** [Driff Car Game](https://github.com/TuananhDo0308/driff-car-game.git) *(Placeholder link, replace with actual repository if available)*
 
 ---
 
